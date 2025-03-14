@@ -1,4 +1,4 @@
-# This is a barebones & fully functional push notification setup in a SwiftUI app.
+# This is a SwiftUI app with Push Notification support using APNS
 
 ## Getting Started
 
