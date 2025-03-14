@@ -22,7 +22,7 @@ Run the following cURL command to send a test notification:
 ```sh
 curl --location 'https://api.courier.com/send' \
 --header 'Content-Type: application/json' \
---header 'Authorization: pk_prod_5P5F7BGVCS4ZGMPME0194KVSP1G7' \
+--header 'Authorization: Bearer pk_prod_5P5F7BGVCS4ZGMPME0194KVSP1G7' \
 --data '{
     "message": {
         "to": {
