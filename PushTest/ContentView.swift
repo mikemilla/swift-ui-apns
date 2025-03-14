@@ -46,7 +46,7 @@ struct ContentView: View {
         }
     }
     
-    // This would normally hit your own backend to get the data
+    // This should hit an endpoint on your backend and return the jwt with your security requirements
     private func getJWT() -> String {
         return "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6InVzZXJfaWQ6dGVzdF91c2VyIHdyaXRlOnVzZXItdG9rZW5zIGluYm94OnJlYWQ6bWVzc2FnZXMgaW5ib3g6d3JpdGU6ZXZlbnRzIHJlYWQ6cHJlZmVyZW5jZXMgd3JpdGU6cHJlZmVyZW5jZXMgcmVhZDpicmFuZHMiLCJ0ZW5hbnRfc2NvcGUiOiJwdWJsaXNoZWQvcHJvZHVjdGlvbiIsInRlbmFudF9pZCI6IjJjYTViODIyLWZjZjItNGE5Ni04YmEyLTQ4M2I2MTE2ZDMzMCIsImlhdCI6MTc0MTk3NDE1NiwiZXhwIjoxODI4Mzc0MTU2LCJqdGkiOiIzZTQwOGYyMS01YzA2LTQ5MWEtYjI1Zi0zMmFjNGMwYTNmNTUifQ.Jg7YEQrkRrbYkdJ46HTQb_AjYllLQGPmVvB3FmVj9DU"
     }
