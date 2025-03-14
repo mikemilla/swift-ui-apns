@@ -13,9 +13,9 @@ Follow these steps to set up and run the project.
 - Click the **Run** button in Xcode.
 - Wait for the simulator or (preferably) connected device to load the app.
 
-### 4. Sign In
-- Open the app in the simulator or on a real device.
+### 4. Sign In and Sync Tokens
 - Click **Sign In** to authenticate.
+- Allow notification permissions
 
 ### 5. Send a Test Request
 Run the following cURL command to send a test notification:
