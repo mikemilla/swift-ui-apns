@@ -1,7 +1,6 @@
-# Project Setup
+# This is a barebones & fully functional push notification setup in a SwiftUI app.
 
 ## Getting Started
-Follow these steps to set up and run the project.
 
 ### 1. Clone the Repository
 
