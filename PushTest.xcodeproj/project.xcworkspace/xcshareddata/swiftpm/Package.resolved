@@ -1,0 +1,15 @@
+{
+  "originHash" : "78f865d52d61a070e717899b0c23a36b7903960865f39872a6db4d6ee5d84202",
+  "pins" : [
+    {
+      "identity" : "courier-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/trycourier/courier-ios",
+      "state" : {
+        "revision" : "5366cb6462a42f81ba9587151deae1b47cec1ba3",
+        "version" : "5.6.2"
+      }
+    }
+  ],
+  "version" : 3
+}
